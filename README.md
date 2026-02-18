@@ -1,5 +1,4 @@
 # Car-Dataset-Visualization-personal-project-
-# County Data Dashboard – Power BI Project
 
 ## Overview
 This project analyzes a CSV Car dataset to identify trends and support decision-making.
