@@ -4,7 +4,7 @@
 This project analyzes a CSV Car dataset to identify trends and support decision-making.
 
 ## Tools Used
-- Power BI(Mostly(
+- Power BI(Mostly)
 - Excel
 
 ## Key Insights
